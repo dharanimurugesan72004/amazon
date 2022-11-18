@@ -1,0 +1,88 @@
+.image1 {
+  padding-top: 5px;
+  padding-left: 10px;
+}
+.text1 {
+  padding-left: 9px;
+  padding-top: 0.02;
+  font-size: 21px;
+  font-weight: 400;
+  font-family: Arial, sans-serif;
+}
+.text2 {
+  padding-left: 10px;
+  font-size: 15px;
+  font-weight: 350;
+  font-family: Arial, sans-serif;
+}
+.box1 {
+  border-color: #fcd200;
+  background-color: #ffd814;
+  border-radius: 9px;
+  width: 1225px;
+  height: 48px;
+  margin-left: 13px;
+  font-size: 17px;
+  font-weight: 400;
+  font-family: Arial, sans-serif;
+}
+.para {
+  padding-top: 0.5px;
+}
+.thanks {
+  font-size: 15px;
+  font-weight: 350;
+  font-family: Arial, sans-serif;
+  color: #007185;
+}
+.text3 {
+  font-size: 13px;
+  font-weight: 350;
+  font-family: Arial, sans-serif;
+}
+.box2 {
+  background-color: #e7e7e7;
+  border-color: #e7e7e7;
+  height: 1px;
+}
+.text4,
+.text5,
+.text7,
+.text9,
+.text11,
+.text13,
+.text15 {
+  color: #cc6600;
+  font-size: 22px;
+  font-weight: 350;
+  font-family: Arial, sans-serif;
+}
+.text6,
+.text8,
+.text14,
+.text16 {
+  padding-left: 10px;
+  font-size: 13px;
+  font-weight: 350;
+  font-family: Arial, sans-serif;
+}
+.text10 {
+  padding-left: 10px;
+  margin-left: 10px;
+  margin-right: 20px;
+  font-size: 13px;
+  font-weight: 350;
+  font-family: Arial, sans-serif;
+}
+.text12 {
+  padding-left: 10px;
+  margin-left: 10px;
+  margin-right: 20px;
+  font-size: 13px;
+  font-weight: 350;
+  font-family: Arial, sans-serif;
+}
+a:link {
+  text-decoration: none;
+  color: #007185;
+}
